@@ -1,5 +1,6 @@
 # test
-
+ 
+ 
 function output=Kernel_fun(x1,x2,sigma)
 [x1_trial ~]=size(x1);
 [x2_trial ~]=size(x2);
